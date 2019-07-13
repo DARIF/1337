@@ -1,0 +1,6 @@
+Credentials cache: API:31AE9A60-3665-42FF-AD49-B17ED9FB2F3E
+        Principal: hdarif@1337.MA
+
+  Issued                Expires               Principal
+Jul  3 21:41:18 2019  Jul 10 21:41:18 2019  krbtgt/1337.MA@1337.MA
+Jul  3 21:48:26 2019  Jul 10 21:41:18 2019  host/vogsphere.1337.ma@1337.MA
